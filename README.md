@@ -23,7 +23,6 @@ Excel dashboards are powerful tools for visualizing and analyzing data. This pro
 ## Technologies Used
 - **Software**: Microsoft Excel
 - **Key Functions**:
-  - VLOOKUP / XLOOKUP
   - SUMIFS, COUNTIFS
   - Conditional Formatting
   - Data Validation
